@@ -1,0 +1,78 @@
+img {
+    width:190px;
+    height: 140px;  
+}
+
+.mycontent {
+    background-color: black;
+    color: white;
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.mmycontent {
+    background-color: white;
+    text-align: center;
+    font-size: 100%;
+}
+
+.myycontent {
+    background-color: black;
+    color: white;
+    height: 157px;
+    font-family: serif;
+    font-size: 150%;
+}
+ 
+.historia {
+    background-color: white;
+    font-size: 220%;
+    font-family: serif;
+    color: black;
+}
+
+.hisstoria {
+    background-color: white;
+    color: black;
+    font-family: serif;
+    font-size: 150%;
+}
+
+.tll{
+    background-color:black;
+    font-size: 200%;
+    font-family: serif;
+    color: rgb(255, 255, 255);
+}
+
+.tl {   
+    background-color:black;
+    color: rgb(255, 255, 255);
+    font-family: serif;
+    font-size: 150%;
+}
+
+.exxtra {
+    background-color:white;
+    font-size: 200%;
+    font-family: serif;
+    color: black;
+}
+
+.extra {
+    background-color:white;
+    font-size: 150%;
+    font-family: serif;
+    color: black;
+}
+
+.imgg {
+    display: flex;
+    align-items: center;
+}
+
+.imgga {
+    display: flex;
+    align-items: center;   
+}
